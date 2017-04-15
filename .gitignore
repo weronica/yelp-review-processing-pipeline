@@ -1,0 +1,14 @@
+# directories
+code/results/
+job_docs/
+papers/
+poster/
+word2vec_models/
+slides/
+transitive_semantics/
+crowd_clustering/
+hits/crowd_clustering/
+cluster_paraphrases/
+
+# virtualenv
+*env/
